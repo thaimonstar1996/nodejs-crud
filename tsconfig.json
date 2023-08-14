@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+      "rootDir": "src",
+      "outDir": "bin",
+      "module": "commonjs",
+      "noImplicitAny": false,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "target": "es5",
+      "lib": [
+          "es6"
+      ],
+      "types": [
+          "node"
+      ],
+      "moduleResolution": "node",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true
+  }
+}
