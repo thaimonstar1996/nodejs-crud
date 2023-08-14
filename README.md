@@ -3,6 +3,11 @@
 - node version: v14.21.1 ( use nvm to install node : nvm install vX.Y.Z => nvm use vX.Y.Z) 
 - npm version: 6.14.17
 
+## Run app 
+1. npm install
+2. node app.js
+3. open: http://localhost:3000/api/heroes
+
 ## api example
 
 ### get list hero: http://localhost:3000/api/heroes
